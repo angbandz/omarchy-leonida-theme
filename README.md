@@ -1,13 +1,13 @@
-# Vice City
+# Leonida
 
-A dark Omarchy theme inspired by the neon sunsets of GTA VI: deep indigo night, hot pink, sunset gold and Miami-water aqua.
+A dark Omarchy theme inspired by the neon sunsets of GTA VI and the state of Leonida: deep indigo night, hot pink, sunset gold and Miami-water aqua.
 
-![Vice City preview](preview.png)
+![Leonida preview](preview.png)
 
 ## Install
 
 ```bash
-omarchy theme install https://github.com/angbandz/omarchy-vice-city-theme
+omarchy theme install https://github.com/angbandz/omarchy-leonida-theme
 ```
 
 ## Palette

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Original Vice City sunset wallpaper in the theme palette."""
+"""Original Leonida sunset wallpaper in the theme palette."""
 import math
 import random
 import sys
