@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-#!/usr/bin/env python3
 """Original Vice City sunset wallpaper in the theme palette."""
 import math
 import random
